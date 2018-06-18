@@ -1,0 +1,37 @@
+# Site settings
+name: Crystal T. Lin
+email: crystal.tsaiti@gmail.com
+#canonical_url: https://edwinexemplar.com
+keywords: "Software Engineer, Python, Java, C, Machine Learning"
+skills: "Electrical & Computer Engineer, Carnegie Mellon University, Class of 2020"
+baseurl:
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# You should replace these with your social networks, of course. :)
+social:
+  - title: linkedin
+    url: www.linkedin.com/in/crystal-t-lin
+#  - title: medium
+#    url: https://medium.com/@cgroom
+#  - title: twitter
+#    url: https://twitter.com/chuck_groom
+    
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: ffe8e6
+  primary-rgb: "255, 232, 230"
+  secondary: 142852
+  secondary-dark: 0a1429
+  section-tout: eaf1f1
+
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
